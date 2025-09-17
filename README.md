@@ -1,2 +1,0 @@
-# DBCheck
-RL7DBcheck
